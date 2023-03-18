@@ -1,0 +1,24 @@
+.center {
+    margin: auto;
+    padding: 10px;
+    text-align: center;
+}
+
+.navbar-nav {
+    font-size: 25px;
+}
+
+.clearfix::after {
+    content: " ";
+    display: block;
+    height: 0;
+    clear: both;
+}
+
+.footer-tab {
+    background-color: black;
+    color:white;
+    height: 20vh;
+    margin-top: 2%;
+    border-radius: 0;
+}
