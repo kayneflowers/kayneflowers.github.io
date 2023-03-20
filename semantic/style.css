@@ -6,6 +6,12 @@
     list-style-type: none;
 }
 
+.center {
+    margin: auto;
+    padding: 10px;
+    text-align: center;
+}
+
 .navbar ul li {
     text-transform: uppercase;
     height: 40px;
