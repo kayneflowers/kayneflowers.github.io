@@ -1,0 +1,159 @@
+html {
+    margin-top: 0;
+    padding: 0;
+}
+body {
+    padding: 0;
+    margin: 0;
+    text-align: center;
+}
+header {
+    background-color: #eea974;
+    height: 6em;
+    padding: 0px;
+    margin: 0px;
+}
+h1 {
+    font-family: Monotype Corsiva;
+    padding: 0px;
+    margin: 0px;
+}
+h4 {
+    border-width: 0.1rem;
+    border-style: solid;
+    border-color: black;
+    padding-bottom: 0;
+    margin-bottom: 3%;
+    background-color: white;
+    text-align: center;
+}
+p {
+    border-width: 0.1rem;
+    border-style: solid;
+    border-color: black;
+    padding-bottom: 0;
+    margin-bottom: 3%;
+    background-color: white;
+}
+.logo {
+    width: 40px;
+    height: 40px;
+    border-radius: 5%;
+    padding: 0;
+    margin-left: -15px;
+}
+a {
+    color: rgb(119, 27, 27);
+    background-color: transparent;
+    font-family: Congenial Black;
+  }
+ul{
+    text-decoration: none;
+    padding: 0;
+    margin: 0;  
+    height: 100%;
+}
+.nav-list {
+    float: right;
+    display: inline;
+    font-size: large;
+    text-align: center;
+    padding: 1rem;
+    margin: 1rem;
+    color: white;
+    height: 100%;
+}
+.skill-image {
+    height: 8rem;
+    border-width: 0.25rem;
+    border-radius: 8%;
+    border-style: solid;
+    border-color: rgb(130, 71, 23);
+    padding: 1rem 1rem 1rem 1rem;
+    display: inline;
+    margin: 1rem;
+    background-color: rgb(144, 219, 238);
+    box-shadow: 10px -10px 5px 3px rgba(48,46,48,1); 
+}
+
+.skill-image1 {
+    height: 8rem;
+    border-width: 0.25rem;
+    border-radius: 8%;
+    border-style: solid;
+    border-color: rgb(130, 71, 23);
+    padding: 1rem 1rem 1rem 1rem;
+    display: inline;
+    margin: 1rem;
+    background-color:rgb(224, 228, 103);
+    box-shadow: 10px -10px 5px 3px rgba(48,46,48,1); 
+}
+
+.skill-image2 {
+    height: 8rem;
+    border-width: 0.25rem;
+    border-radius: 8%;
+    border-style: solid;
+    border-color: rgb(130, 71, 23);
+    padding: 1rem 1rem 1rem 1rem;
+    display: inline;
+    margin: 1rem;
+    background-color:rgb(204, 150, 222);
+    box-shadow: 10px -10px 5px 3px rgba(48,46,48,1);  
+}
+
+.skill-image3 {
+    height: 8rem;
+    border-width: 0.25rem;
+    border-radius: 8%;
+    border-style: solid;
+    border-color: rgb(130, 71, 23);
+    padding: 1rem 1rem 1rem 1rem;
+    display: inline;
+    margin: 1rem;
+    background-color: #6cd697;
+    box-shadow: 10px -10px 5px 3px rgba(48,46,48,1); 
+}
+
+.footer-tab {
+    margin: 0;
+    background-color: rgb(243, 237, 237);
+    color:black;
+    padding: 1%;
+    border-radius: 0;
+}
+div {
+    padding: 3% 
+}
+.skills {
+    background-color: rgb(233, 176, 138);
+    padding: 0;
+    margin: 0;
+}
+table {
+    margin: 0;
+    padding: 0;
+    border-width: 0.4rem;
+    border-style: solid;
+    background-color: white;
+    width: 95%;
+    text-align: left;  
+}
+.row {
+    border-color: rgb(96, 30, 30);
+    border-style: solid;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.skill-cards {
+    border-color: black;
+    border-style: solid;
+    background-color: hsl(25, 35%, 50%);
+    text-align: center;
+}
+li {
+    text-align: left;
+    text-indent: 2%;
+    color: azure;
+}
