@@ -1,0 +1,46 @@
+.navbar-nav {
+      flex-direction: row;
+    }
+    
+    .nav-link {
+      padding-right: .5rem !important;
+      padding-left: .5rem !important;
+    }
+    
+    /* Fixes dropdown menus placed on the right side */
+    .ml-auto .dropdown-menu {
+      left: auto !important;
+      right: 0px;
+    }
+
+.ml-auto .dropdown-menu {
+    left: auto !important;
+    right: 0px;
+}
+
+//* 
+              <li class="nav-item">
+                <div class="dropdown">
+                  <a class="nav-link dropdown-toggle p-clear ps-0" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                    About Me
+                  </a>
+                  <ul class="dropdown-menu p-clear ps-0">
+                    <li class=" p-clear ps-0">
+                      <a class="dropdown-item p-clear ps-2" href="#">
+                        Action
+                      </a>
+                    </li>
+                    <li class=" p-clear ps-0">
+                      <a class="dropdown-item p-clear ps-2" href="#">
+                        Another action
+                      </a>
+                    </li>
+                    <li class=" p-clear ps-0">
+                      <a class="dropdown-item p-clear ps-2" href="#">
+                        Something else here
+                      </a>
+                    </li>
+                  </ul>
+                </div>
+              </li>
+*//
