@@ -113,6 +113,13 @@
   color: white;
 }
 
+/* Tiktok */
+.fa-tiktok {
+  background: rgb(36, 36, 36);
+  border-radius: 50%;
+  color: white;
+}
+
 /* Github */
 .fa-github {
   background: rgb(36, 36, 36);
