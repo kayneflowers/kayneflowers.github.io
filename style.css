@@ -278,3 +278,63 @@ table {
     text-indent: 2%;
     color: azure;
 }
+
+/* Style all font awesome icons */
+.fa {
+  padding: 17px;
+  font-size: 50px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+}
+
+/* Add a hover effect if you want */
+.fa:hover {
+  opacity: 0.7;
+}
+
+/* Set a specific color for each brand */
+
+/* Facebook */
+.fa-facebook {
+  background: rgb(36, 36, 36);
+  border-radius: 50%;
+  color: white;
+}
+
+/* Twitter */
+.fa-twitter {
+  background: rgb(36, 36, 36);
+  border-radius: 50%;
+  color: white;
+}
+
+/* Instagram */
+.fa-instagram {
+  background: rgb(36, 36, 36);
+  border-radius: 50%;
+  color: white;
+}
+
+/* Tiktok */
+.fa-tiktok {
+  background: rgb(36, 36, 36);
+  border-radius: 50%;
+  color: white;
+}
+
+
+/* Github */
+.fa-github {
+  background: rgb(36, 36, 36);
+  border-radius: 50%;
+  color: white;
+}
+
+
+/* LinkedIn */
+.fa-linkedin {
+  background: rgb(36, 36, 36);
+  border-radius: 50%;
+  color: white;
+}
